@@ -1,0 +1,16 @@
+================PROJECT 1 | HOTEL REVENUE | DATA ANALYST=========================
+### Project Pipline
+1. BUild Database
+2. Develop the SQL Query
+3. Connect Power BI to the Database
+4. Visualize
+5. Summarize Finding
+
+==================================================================
+**Import file : Destination ==>  Microsoft OLE DB Provider for SQL Server**
+
+==================================================================
+# Report 
+1. Is our hotel revenue growing by year (there is two type hotel
+2. Should we increase our parking lot size (if there is a trend is guest woth personal cars)
+3. What trends can we see in the data (Focus on average daily rate and guests to explore seasonality)
